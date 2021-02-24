@@ -1,0 +1,83 @@
+/* Waseem Alsharif - Section ZT - CSS File */
+body{
+	color:#404040;
+	font-size:11px;
+	font-family:Georgia;
+}
+
+p.w{
+	text-align: center;
+	color: #A4A400;
+	text-decoration: underline;
+	font-size: 22px;
+	font-weight: bold;
+	background-color:#F0F0F0;
+	font-family:Arial;
+}
+div label{
+	color: #A4A400;
+	text-decoration: underline;
+	font-size: 18px;
+	background-color:#F0F0F0;
+}
+img.c{
+	width: 200px;
+	margin-top: 10px;
+	margin-bottom:10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+div{
+	margin-top: 10px;
+}
+div.g{
+	margin-top: -9px;
+}
+ul.a {
+	list-style-type: circle;
+	margin-left:50px;
+}
+
+div.t{
+	margin-left:60px;
+	margin-right: 20px;
+
+
+}
+ul li label{
+	text-decoration: underline;
+}
+
+div.I{
+	margin-left: 30px;
+
+}
+a{
+	color:cyan;
+}
+
+div.X{
+	margin-right:30px;
+	text-align: right;
+}
+div.Y{
+	margin-right:40px;
+	text-align: right;
+	
+}
+div.Z{
+	margin-right:60px;
+	text-align: right;
+}
+img.b{
+
+	width:130px;
+
+}
+
+.comments{
+	background-color:#FFFFA8 ;
+	font-style: italic;
+	display: inline-block;
+}
