@@ -82,8 +82,7 @@ img.b{
 	display: inline-block;
 }
 hr{
- size="2"; 
- width="100%";
+ width:100%;
 
 }
 label.b{
